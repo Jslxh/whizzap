@@ -1,0 +1,5 @@
+pandas
+pywhatkit
+faiss-cpu
+transformers
+openpyxl
