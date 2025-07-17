@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 python main.py
 
-Enter prompt: (eg.,Ask the Assistant Professor to arrange the class committee meeting at the department)
+Enter prompt: (eg., Ask the Assistant Professor to arrange the class committee meeting at the department)
 
 WhizZap will process the input, find the correct number, and send the message.
 ```
