@@ -2,6 +2,7 @@
 
 WhizZap is an intelligent, role-based WhatsApp automation bot powered by Python. Designed for admin teams, educational institutions, and HR departments, WhizZap interprets natural language instructions and automatically sends messages to the appropriate person on WhatsApp, using contact details from an Excel sheet.
 
+
 ## Features
 
 * **Smart Role Recognition**: Understands roles like Principal, Vice-Principal, Assistant Professor, etc., directly from your natural language command.
@@ -19,10 +20,11 @@ pip install -r requirements.txt
 
 python main.py
 
-Enter prompt: eg: Ask the Assistant Professor to arrange the class committee meeting at the department
+Enter prompt: (eg: Ask the Assistant Professor to arrange the class committee meeting at the department)
 
 WhizZap will process the input, find the correct number, and send the message.
 ```
+
 
 ## Notes
 * Ensure your WhatsApp Web is logged in and open in your default browser.
