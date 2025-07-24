@@ -81,7 +81,7 @@ position, message_content = extract_position_and_clean_message(prompt, contact_l
 
 if position and message_content:
     message_to_send = (
-        f"Respected {position},\n\n{message_content}.\n\nThank you.\n\nBest regards!"
+        f"Respected {position},\n\n{message_content}.\n\nThank you.\n\nWith regards!"
     )
     print("Generated message:\n", message_to_send)
 
